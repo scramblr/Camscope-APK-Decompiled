@@ -1,0 +1,44 @@
+{
+  "projectVersion": 2,
+  "files": [
+    "..\\Camscope.apk"
+  ],
+  "treeExpansionsV2": [
+    "p:android.support.v4.os",
+    "p:android.support.v4.app",
+    "p:android.support.v4.graphics.drawable",
+    "t:JInputs//JInputFiles",
+    "t:JResources"
+  ],
+  "codeData": {
+    "comments": [],
+    "renames": []
+  },
+  "openTabs": [
+    {
+      "type": "class",
+      "tabPath": "android.support.v4.graphics.drawable.IconCompatParcelizer",
+      "subPath": "0",
+      "caret": 219,
+      "view": {
+        "x": 0,
+        "y": 0
+      },
+      "active": true,
+      "pinned": false,
+      "bookmarked": false,
+      "hidden": false,
+      "previewTab": false
+    }
+  ],
+  "cacheDir": "C:\\Users\\user\\AppData\\Local\\skylot\\jadx\\cache\\projects\\Camscope-c39c2b0e0e439c1b732de8d1005a9cb7",
+  "enableLiveReload": false,
+  "searchHistory": [
+    "20001",
+    "kotlinx.coroutines.android.AndroidDispatcherFactory",
+    "connect"
+  ],
+  "searchResourcesFilter": "*",
+  "searchResourcesSizeLimit": 0,
+  "pluginOptions": {}
+}

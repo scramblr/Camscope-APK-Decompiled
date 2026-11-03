@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Blue">蓝</string>
+    <string name="Brightness">亮度</string>
+    <string name="Cancel">取消</string>
+    <string name="Contrast">对比度</string>
+    <string name="Delete_All">删除选定文件</string>
+    <string name="Green">绿</string>
+    <string name="Loading_data">正在加载数据...</string>
+    <string name="NoDevice">请先连接摄像头</string>
+    <string name="NoFile">没有文件</string>
+    <string name="OK">确定</string>
+    <string name="Please_connected_device">请先连接上摄像头...</string>
+    <string name="Red">红</string>
+    <string name="Reset">重置</string>
+    <string name="Resolution">分辨率</string>
+    <string name="Saturation">饱和度</string>
+    <string name="SensorWarm">温度过高请及时做降温处理</string>
+    <string name="Settings">设定</string>
+    <string name="Sure_you_want_to_delete">确定要删除选定文件?</string>
+    <string name="The_necessary_permission_denied">需要读取存储权限</string>
+    <string name="Tips">提示</string>
+    <string name="Total_files">一共 %d 个文件</string>
+    <string name="app_name">Camscope</string>
+    <string name="app_name_test">WifiCheckT</string>
+    <string name="brow_photos">浏览相片</string>
+    <string name="brow_photos_videos">浏览相片和视频</string>
+    <string name="brow_videos">浏览视频</string>
+    <string name="check_wifiCamera">正在连接WiFi摄像头</string>
+    <string name="count_file">一共 %d 个文件</string>
+    <string name="delete_select_files">删除所选文件</string>
+    <string name="downloading">正在下载中...</string>
+    <string name="permission_msg">本APP需要读写外部存储权限</string>
+    <string name="pic_para_settings">图像参数设定</string>
+    <string name="selectAll">选择全部</string>
+    <string name="threedot">· · ·</string>
+    <string name="warning">警告</string>
+</resources>
